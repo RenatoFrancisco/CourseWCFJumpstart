@@ -1,2 +1,2 @@
 # CourseWCFJumpstart
-Curso sobre WCF da plataforma Pluralsight
+Curso sobre WCF da plataforma Pluralsight.
